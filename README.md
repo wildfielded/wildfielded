@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wildfielded.
 - 👀 I’m interested in Fullstack web-development.
 - 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on any development as junior.
+- 💞️ I’m looking for team with nice dev-project as junior.
 - 📫 How to reach me? Just write me to wildfielded@gmail.com
 
 <!---
