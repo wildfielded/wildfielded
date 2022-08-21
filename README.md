@@ -1,10 +1,8 @@
-<h1 align="center">Ded Wildfield</h1>
-<h3 align="center">Remastered & Reloaded</h3>
-<p align="right">&gt;&gt;&gt; <wildfielded@gmail.com></p>
-
--  Interested in Python backend and DS development.
--  Looking for team with long-time dev-project as developer and data engineer.
+<h1 align="center">Ded Wildfield (Reloaded)</h1>
+<h3 align="center">Interested in Python (Backend development), DS (data engineering), System & Network admining (let's call this&nbsp;&mdash; DevNetSecOps)</h3>
+<p align="right">&gt;&gt;&gt; <a href="mailto:wildfielded@gmail.com">wildfielded@gmail.com</a></p>
 
 ----
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildfielded&count_private=true&theme=dark&show_icons=true)](https://github.com/wildfielded/github-readme-stats)
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=wildfielded&count_private=true&show_icons=true&hide=prs,contribs)](https://github.com/wildfielded/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wildfielded&layout=compact&langs_count=7)](https://github.com/wildfielded/github-readme-stats)
