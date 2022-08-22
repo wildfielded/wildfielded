@@ -2,7 +2,7 @@
 
 #### Interested in: ####
 
-- Python (*backend dev*
+- Python (*backend dev*)
 - DS (*data engineering*)
 - System & Network administration (*let's proudly call this&nbsp;&mdash; DevNetSecOps* :wink:)
 
