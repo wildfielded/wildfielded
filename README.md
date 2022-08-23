@@ -4,7 +4,7 @@
 interested_in = {
     python: "Backend Dev",
     data_science: "Data Engineering",
-    sys_and_net_admining: "let's proudly call this - DevNetSecOps 😎"
+    sys_and_net_admining: "Let's proudly call this - DevNetSecOps 😎"
 }
 ```
 
