@@ -11,6 +11,9 @@
     <a href="https://github.com/wildfielded/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=wildfielded&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
     </a>
+    <a href="https://github.com/stalkspectrum/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=stalkspectrum&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
+    </a>
     <a href="https://github.com/wildfielded/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wildfielded&layout=compact&langs_count=6&theme=dark">
     </a>
