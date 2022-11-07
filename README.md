@@ -23,3 +23,15 @@ interested_in = {
 </p>
 
 ----
+
+## Relevant repositories ##
+
+[**`pro-owen`**](https://github.com/wildfielded/pro-owen)&nbsp;&mdash;
+Project &laquo;OWEN&raquo;. Refactoring old Visual Basic software to a new
+Python stack.
+
+[**`samples-python`**](https://github.com/wildfielded/samples-python)&nbsp;&mdash;
+The most interesting training exercises and test tasks received in the course of
+training and job search are collected.
+
+----
