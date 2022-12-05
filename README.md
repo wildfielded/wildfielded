@@ -1,4 +1,4 @@
-<h1 align="center">Ded Wildfield (Reloaded)</h1>
+<h1 align="center">Ded Wildfield (or just Nick)</h1>
 
 ```python
 interested_in = {
