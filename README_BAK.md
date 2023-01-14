@@ -13,22 +13,24 @@ interested_in = {
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+```html
 <p align="center">
     <a href="https://github.com/wildfielded/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=[wildfielded]&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=wildfielded&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
     </a>
     <a href="https://github.com/wildfielded/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wildfielded&layout=compact&langs_count=6&theme=dark">
     </a>
 </p>
+```
 
 ----
 
-<p align="center">
+[Apps Infos](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ded Wildfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildfielded&count_private=true&show_icons=true&hide=prs,contribs&theme=dark)](https://github.com/wildfielded/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildfielded&layout=compact&langs_count=6&theme=dark)](https://github.com/wildfielded/github-readme-stats)
-</p>
 
 ----
 
