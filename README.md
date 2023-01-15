@@ -25,4 +25,7 @@ Python stack.
 The most interesting training exercises and test tasks received in the course of
 training and job search are collected.
 
+[**`samples-ds`**](https://github.com/wildfielded/samples-ds)&nbsp;&mdash;
+The most interesting solutions for training exercises and test tasks.
+
 ----
