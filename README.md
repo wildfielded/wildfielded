@@ -13,6 +13,12 @@ interested_in = {
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+<p align="center">
+    <a href="https://github.com/wildfielded/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wildfielded&layout=compact&langs_count=6&theme=dark">
+    </a>
+</p>
+
 ----
 
 ## Relevant repositories ##
