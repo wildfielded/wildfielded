@@ -32,24 +32,6 @@ interested_in = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildfielded&layout=compact&langs_count=6&theme=dark)](https://github.com/wildfielded/github-readme-stats)
 
-<p align="center">
-    <a href="https://github.com/stalkspectrum/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=stalkspectrum&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
-    </a>
-    <a href="https://github.com/stalkspectrum/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stalkspectrum&layout=compact&langs_count=6&theme=dark">
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/hotbasin/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=hotbasin&count_private=true&show_icons=true&hide=prs,contribs&theme=dark">
-    </a>
-    <a href="https://github.com/hotbasin/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hotbasin&layout=compact&langs_count=6&theme=dark">
-    </a>
-</p>
-
 ----
 
 ### Some badges which I have deal with ###
